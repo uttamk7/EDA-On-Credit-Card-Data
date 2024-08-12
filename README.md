@@ -1,7 +1,7 @@
 # Credit Card Case Study - Exploratory Data Analysis (EDA)
 
 ## Overview
-- * This project presents a comprehensive Exploratory Data Analysis (EDA) of a credit card dataset, aiming to uncover insights into customer behavior, spending patterns, and repayment habits. The analysis provides valuable information that can guide credit card companies in improving their services and tailoring offerings to different customer segments.
+This project presents a comprehensive Exploratory Data Analysis (EDA) of a credit card dataset, aiming to uncover insights into customer behavior, spending patterns, and repayment habits. The analysis provides valuable information that can guide credit card companies in improving their services and tailoring offerings to different customer segments.
 
 ## Objectives
 Analyze customer acquisition data to understand the demographics and profile of credit card users.
@@ -32,9 +32,9 @@ Categorized spending patterns to reveal preferred transaction types.
 Examined the correlation between spending and repayment amounts.
 
 ## Key Findings
-Customer Demographics: Insights into the most common customer profiles.
-Spending Trends: Identification of peak spending months and categories.
-Repayment Reliability: Observations on repayment consistency and potential risk factors.
+- **Customer Demographics:** Insights into the most common customer profiles.
+- **Spending Trends:** Identification of peak spending months and categories.
+- **Repayment Reliability:** Observations on repayment consistency and potential risk factors.
 
 ## Conclusion and Recommendations
 Based on the analysis, several key recommendations are made to optimize credit offerings and improve customer retention. These include personalized credit limits, targeted marketing campaigns, and enhanced customer support for at-risk segments.
