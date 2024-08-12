@@ -1,4 +1,4 @@
-# Credit Card Case Study - Exploratory Data Analysis (EDA)
+# Credit Card Project - Exploratory Data Analysis (EDA)
 
 ## Overview
 This project presents a comprehensive Exploratory Data Analysis (EDA) of a credit card dataset, aiming to uncover insights into customer behavior, spending patterns, and repayment habits. The analysis provides valuable information that can guide credit card companies in improving their services and tailoring offerings to different customer segments.
